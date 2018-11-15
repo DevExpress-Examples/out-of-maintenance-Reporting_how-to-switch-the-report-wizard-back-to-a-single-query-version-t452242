@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/UseLegacyReportWizard/Form1.cs)**
+<!-- default file list end -->
 # How to switch the Report Wizard back to a single-query version
 
 
